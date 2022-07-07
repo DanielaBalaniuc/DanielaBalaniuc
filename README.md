@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaBalaniuc
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning Python, JavaScript, Swift, Kotlin
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python, JavaScript, 3D Vizualization, XGBoost Predictive Modeling, Bagging, Decision Trees
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: danielabalaniuc@gmail.com
 
