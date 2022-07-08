@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaBalaniuc
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working with Python, JavaScript, SSI, 3D Vizualization, XGBoost Predictive Modeling, Bagging, Decision Trees, IBM Cognos Dashboard Demo
+- 🌱 I’m currently working with Python, JavaScript, SSI, 3D Vizualization, XGBoost Predictive Modeling, Decision Trees, IBM Cognos Dashboard Demo
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: danielabalaniuc@gmail.com
 
