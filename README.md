@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaBalaniuc
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working with Python, SQL, JavaScript, PostgreSQL, MySQL, MongoDB, Web3, SSI, IBM Cognos Dashboard Demo, Microsoft SQL Server Management Studio, IBM Cloud Pak
+- 🌱 I’m currently working with Python, SQL, JavaScript, PostgreSQL, MySQL, MongoDB, Web3, SSI, IBM Cognos Dashboard Demo, Microsoft SQL Server Management Studio, IBM Cloud Pak.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: danielabalaniuc@gmail.com
 
