@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielaBalaniuc
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently working with Python, SQL, NoSQL, MongoDB, JavaScript, Pytorch, C++, Blockchain, Wallet CLI, SSI/DID, IBM Cognos Dashboard Demo, Microsoft SQL Server Management Studio, AWS Distributed Systems.
+- 🌱 I’m currently working with Python, SQL, NoSQL, MongoDB, JavaScript, Pytorch, C++, Blockchain, Wallet CLI, SSI/DID, IBM Governance build and deploy a model, IBM Cognos Dashboard, Microsoft SQL Server Management Studio, AWS Distributed Systems.
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me: danielabalaniuc@gmail.com
 
