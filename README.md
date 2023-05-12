@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DanielaBalaniuc
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently working with Python, Pandas, Data Dictionary, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, JavaScript, Pytorch, C++, Blockchain, Wallet CLI, SSI/DID, IBM Governance build and deploy a model, IBM Cognos Dashboard, Access, Microsoft SQL Server Management Studio, AWS Distributed Systems, Machine Learning with scikit-learn, Scientific Python toolkits, Semantic Web, Algorithmic trading, Finance, Statistics and Calculus with Python.
-- 💞️ I’m looking to collaborate on data science projects
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently working in a Semantic Web project with SPARQL (Protocol and RDF Query Language).  - Python, Pandas, Data Dictionary, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, JavaScript, Pytorch, C++, Blockchain, Wallet CLI, SSI/DID, IBM Governance build and deploy a model, IBM Cognos Dashboard, Access, Microsoft SQL Server Management Studio, AWS Distributed Systems, Machine Learning with scikit-learn, Scientific Python toolkits, Semantic Web, Algorithmic trading, Finance, Statistics and Calculus with Python.
 - 📫 How to reach me: danielabalaniuc@gmail.com
 
 <!---
