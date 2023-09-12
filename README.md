@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DanielaBalaniuc
 - 👀 I’m a Data Scientist
 - 🌱 Currently working with a Natural Language Processing project. 
-- Python, Pandas, Data Dictionary, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, JavaScript, Pytorch, IBM Governance build and deploy a model, IBM Cognos Dashboard, Access, Microsoft SQL Server Management Studio, AWS Distributed Systems, Machine Learning with scikit-learn, Matplotlib, Scientific Python toolkits, Semantic Web, Finance, Statistics and Calculus with Python, FlutterFlow, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Images augmented, 3D Images.
+- Python, Pandas, Data Dictionary, AWS, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, JavaScript, Pytorch, IBM Governance build and deploy a model, IBM Cognos Dashboard, Access, Microsoft SQL Server Management Studio, AWS Distributed Systems, Machine Learning with scikit-learn, Matplotlib, Scientific Python toolkits, Semantic Web, Finance, Statistics and Calculus with Python, FlutterFlow, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Images augmented, 3D Images.
 
 
 <!---
