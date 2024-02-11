@@ -1,6 +1,6 @@
 - Hi, I’m @DanielaBalaniuc
 - 📈 I am a Data Scientist, currently working with Artificial Intelligence, Large Language Models, Natural Language Processing project, Data Engineering, Database management, CRM, Machine Learning projects, NeuralSeek, Chatbot. 
-- Python, Spark, Pandas, Data Dictionary, Amazon S3, AWS Lambda, AWS CodePipeline, Redshift, Data Lake, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, Apache Cassandra, Gradient AI, IBM Governance, Access, Microsoft SQL Server Management Studio,  Matplotlib, Scientific Python toolkits, Semantic Web, Finance, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Images augmented, 3D Images.
+- Python, Spark, Pandas, Amazon S3, SQL, MySQL, NoSQL, Data Analytics, Nodejs, Linux, MongoDB, Apache Cassandra, Gradient AI, IBM Governance, Access, Microsoft SQL Server Management Studio,  Matplotlib, Scientific Python toolkits, Semantic Web, Finance, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Images augmented, 3D Images.
 
 
 <!---
