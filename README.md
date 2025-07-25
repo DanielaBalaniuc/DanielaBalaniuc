@@ -1,6 +1,6 @@
  @DanielaBalaniuc
-- Data Scientist, Financial Product, Artificial Intelligence, Large Language Models, Natural Language Processing project, Database management, CRM, Machine Learning projects, Chatbot, Retrieval Augmented Generation, LangChain, LlamaIndex.
-- Python, PyTorch, TensorFlow, Spark, Pandas, Amazon S3, SQL, MySQL, NoSQL, Data Analytics, MongoDB, IBM, Access, Microsoft SQL Server Management Studio, Matplotlib, Scientific Python toolkits, Semantic Web, Finance, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Images augmented, 3D Images, Huggging Face.
+- Data Scientist, Financial Product, Artificial Intelligence, Large Language Models, Natural Language Processing project, Database management, Machine Learning projects, Chatbot, Retrieval Augmented Generation, LangChain, LlamaIndex.
+- Python, PyTorch, TensorFlow, Spark, Pandas, Amazon S3, SQL, Data Analytics, MongoDB, IBM, Access, Microsoft SQL Server Management Studio, Matplotlib, Scientific Python toolkits, Semantic Web, Finance, APIs, Keras, Tensorflow, Intel OpenVino, Image Style Transfer, Huggging Face.
 
 
 <!---
