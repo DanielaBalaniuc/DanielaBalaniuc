@@ -46,6 +46,3 @@ LangChain · FAISS · SQL · AWS · MongoDB · Docker · Tableau · Power BI
 
 - Tableau dashboards: [public.tableau.com/app/profile/daniela.balaniuc](https://public.tableau.com/app/profile/daniela.balaniuc/vizzes)
 - Everything else: [github.com/DanielaBalaniuc?tab=repositories](https://github.com/DanielaBalaniuc?tab=repositories)
-DanielaBalaniuc/DanielaBalaniuc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
