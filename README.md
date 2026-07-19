@@ -2,7 +2,7 @@
 # Hi, I'm Daniela 👋
 
 Data Scientist with a Master's in Data Science, focused on recommendation
-systems — from embedding-based similarity search to retrieval-augmented
+systems, from embedding-based similarity search to retrieval-augmented
 generation to heterogeneous graph neural networks. I like projects where I
 can go end-to-end: build it, evaluate it honestly, and write up what I
 found, including the parts that didn't go as expected.
